@@ -2,6 +2,10 @@ body{
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
     min-width: 1200px;
+    background-image: url("http://wp.widewallpapers.ru/2k/backgrounds/1920x1080/background-wide-wallpaper-1920x1080-031.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #000;
 }
 
 .main-conteiner{
