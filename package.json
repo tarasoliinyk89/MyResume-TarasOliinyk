@@ -1,0 +1,19 @@
+{
+  "name": "myresume-tarasoliinyk",
+  "version": "1.0.0",
+  "description": "\"# MyResume-TarasOliinyk\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarasoliinyk89/MyResume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarasoliinyk89/MyResume/issues"
+  },
+  "homepage": "https://github.com/tarasoliinyk89/MyResume#readme"
+}
